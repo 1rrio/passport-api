@@ -8,4 +8,5 @@
 | 6      | `POST /api/pembayaran/`      | Menambahkan data pembayaran berdasarkan ID pengajuan paspor.                           |
 
 
-![Uploading Mermaid Flow Flow-2026-07-01-001842.png…]()
+<img width="3919" height="7848" alt="Mermaid Flow Flow-2026-07-01-001842" src="https://github.com/user-attachments/assets/8583ec2e-af31-4655-a702-2227e975be2f" />
+
