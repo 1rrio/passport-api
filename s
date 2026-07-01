@@ -1,7 +1,7 @@
 Saya ingin Anda menjadi mentor Flutter saya untuk membangun aplikasi **Sistem Informasi Pengajuan dan Perpanjangan Paspor** yang terhubung dengan REST API Django yang sudah saya buat.
 
 ### Teknologi yang digunakan
-
+* Android Studio
 * Flutter (Material 3)
 * Dio sebagai HTTP Client
 * REST API Django
